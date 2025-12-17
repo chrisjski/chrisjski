@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrisjski
-- 👀 I’m interested in learning how to code (bored of business development)
+- 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on fun projects in the future when I have developed some skills in coding
 - 📫 How to reach me: carrier pigeon
